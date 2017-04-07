@@ -1,0 +1,33 @@
+.header{
+    background-color: aquamarine;
+}
+
+.content-wrapper {
+    height: 100px;
+}
+
+.content-wrapper .sidebar-left{
+    background-color: crimson;
+    float: left;
+    height: 100%;
+    width: 15%;
+}
+
+.content-wrapper .content-main{
+    background-color: indigo;
+    float: left;
+    height: 100%;
+    width: 70%;
+}
+
+.content-wrapper .sidebar-right{
+    background-color: darkmagenta;
+    float: right;
+    height: 100%;
+    width: 15%;
+}
+
+.footer{
+    background-color: lightcoral;
+    clear: both;
+}
